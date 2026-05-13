@@ -95,19 +95,6 @@ Este projeto explora na prática:
 - **Separação de interface e implementação:** `.hpp`/`.cpp` para cada módulo
 - **Game loop com delta-time:** lógica de jogo desacoplada do framerate
 
-## 🗺️ Roadmap
-
-Próximas funcionalidades planejadas:
-
-- [ ] **Sistema de upgrades permanentes** (multiplicadores de produção, redutores de custo)
-- [ ] **Múltiplos tipos de alvo** (PCs domésticos, servidores corporativos, mainframes)
-- [ ] **Save/load de partida** com verificação de integridade da blockchain salva
-- [ ] **Eventos aleatórios** (detecção pelo FBI, zero-days, blackouts)
-- [ ] **Verificação manual da cadeia** como ação de jogo (`v`) com bônus de auditoria
-- [ ] **Win condition** (objetivo final + ranking de tempo)
-- [ ] **Portabilidade Linux/macOS**
-- [ ] **Hash criptográfica real** (SHA-256 via `picosha2`)
-
 ## ⚠️ Limitações conhecidas
 
 Algumas escolhas foram intencionalmente didáticas:
@@ -118,9 +105,14 @@ Algumas escolhas foram intencionalmente didáticas:
 
 Estas limitações estão documentadas no roadmap para evolução futura.
 
-## 👤 Autor
+## 👤 Autores
 
-**Victor [seu sobrenome]**
+**Victor Lemos**
+**Bernardo Belfort**
+**Edísio Uchoa**
+**Gabriel Cássio**
+**Francisco Faustino**
+
 Sistemas de Informação @ CIn/UFPE
 
 Projeto desenvolvido durante a disciplina de Estruturas de Dados
