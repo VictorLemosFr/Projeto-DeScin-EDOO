@@ -25,7 +25,9 @@ se algo foi alterado, o jogo detecta.
 |______________________________________________________________________|
 | Balance: 1847                                                        |
 | Infection Cost: 484                                                  |
-Computers Infected: 4Recent Actions:- Infectou uma máquina! Total infectadas: 4- Infectou uma máquina! Total infectadas: 3- Infectou uma máquina! Total infectadas: 2----------------------------------------------------------------------Commands:[i] Infectar maquina[q] Sair do jogo______________________________________________________________________
+Computers Infected: 4Recent Actions:- Infectou uma máquina! Total infectadas: 4- Infectou uma máquina! Total infectadas: 3- Infectou uma máquina! Total infectadas: 2
+Commands:[i] Infectar maquina[q] Sair do jogo
+______________________________________________________________________
 
 ### Controles
 
